@@ -1,0 +1,1 @@
+This is site for guests feedback. You need to connect your database to it, i left a dump of empty database here.
