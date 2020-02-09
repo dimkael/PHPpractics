@@ -1,0 +1,1 @@
+This function is rewriting of already exist “var_dump()” function. Its advantages are that it frames the output in <pre>...</pre> tags and output the html entities in original form (for expamle: “&lt”);
